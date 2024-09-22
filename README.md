@@ -41,9 +41,4 @@ Contributions are welcome! If you want to contribute to this project, please fol
 - Push to the branch (`git push origin feature/YourFeature`)
 - Create a new Pull Request
 
-## License
-[Indicate the license you've chosen for this project, e.g., MIT License, GNU General Public License v3.0, etc.]
-
----
-Feel free to provide feedback or report issues. We hope this tool enhances the well-being of your beloved pets!
 
