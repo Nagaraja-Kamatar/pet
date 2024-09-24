@@ -38,6 +38,5 @@ Contributions are welcome! If you want to contribute to this project, please fol
 - Fork the repository
 - Create your feature branch (`git checkout -b feature/YourFeature`)
 - Commit your changes (`git commit -am 'Add YourFeature'`)
-- Push to the branch (`git push origin feature/YourFeature`)
 
 
