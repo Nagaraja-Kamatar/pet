@@ -36,7 +36,5 @@ After installation, follow these instructions to use the project:
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these guidelines:
 - Fork the repository
-- Create your feature branch (`git checkout -b feature/YourFeature`)
-- Commit your changes (`git commit -am 'Add YourFeature'`)
 
 
