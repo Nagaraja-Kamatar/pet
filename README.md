@@ -35,6 +35,5 @@ After installation, follow these instructions to use the project:
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these guidelines:
-- Fork the repository
 
 
