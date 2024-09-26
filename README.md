@@ -33,7 +33,4 @@ After installation, follow these instructions to use the project:
 2. Create a user account or log in if you already have one.
 3. Explore the features and add your pet's information.
 
-## Contributing
-Contributions are welcome! If you want to contribute to this project, please follow these guidelines:
-
 
