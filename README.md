@@ -30,6 +30,5 @@ To run this project locally, follow these steps:
 ## Usage
 After installation, follow these instructions to use the project:
 1. Start the application: [provide details on how to start the application]
-2. Create a user account or log in if you already have one.
 
 
