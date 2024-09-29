@@ -27,8 +27,5 @@ To run this project locally, follow these steps:
 2. Navigate to the project directory: `cd pet-care-project`
 3. [Add specific installation instructions if any, e.g., install dependencies, configure settings, etc.]
 
-## Usage
-After installation, follow these instructions to use the project:
-
 
 
