@@ -23,7 +23,6 @@ The Pet Care Project is a web application aimed at simplifying pet care manageme
 
 ## Installation
 To run this project locally, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/pet-care-project.git`
 
 
 
