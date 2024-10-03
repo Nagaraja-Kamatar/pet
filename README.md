@@ -21,8 +21,7 @@ The Pet Care Project is a web application aimed at simplifying pet care manageme
 - **Reminders**: Receive timely reminders for upcoming appointments and activities.
 - **User Authentication**: Securely register and log in to manage your pet's information.
 
-## Installation
-To run this project locally, follow these steps:
+
 
 
 
