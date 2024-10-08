@@ -16,8 +16,7 @@ The Pet Care Project is a web application aimed at simplifying pet care manageme
 ## Features
 - **Pet Profile**: Create profiles for your pets, including essential details like breed, age, and medical history.
 - **Appointment Scheduler**: Plan and manage vet visits, grooming sessions, and other appointments easily.
-
-
+- **Health Records**: Keep a record of your pet's vaccinations, medications, and health checkups.
 
 
 
