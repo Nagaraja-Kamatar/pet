@@ -13,9 +13,7 @@ Welcome to the Pet Care Project repository! This project is designed to provide 
 ## Introduction
 The Pet Care Project is a web application aimed at simplifying pet care management. Whether you're a pet owner or a pet care professional, this tool helps you keep track of your pet's health, schedule appointments, and manage daily activities.
 
-## Features
-- **Pet Profile**: Create profiles for your pets, including essential details like breed, age, and medical history.
-- **Appointment Scheduler**: Plan and manage vet visits, grooming sessions, and other appointments easily.
+
 
 
 
